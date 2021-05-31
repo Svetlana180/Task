@@ -1,1 +1,7 @@
+<<<<<<< HEAD
 ﻿Изучаю ГИД
+=======
+������ ���
+learning GIT.
+>>>>>>> eb60d7dfc76a5c167113a5beba676a5b286388d8
+Add line
